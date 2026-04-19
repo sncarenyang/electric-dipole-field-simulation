@@ -74,12 +74,27 @@ electric-dipole-field-simulation/
 └── requirements.txt
 
 ```
+## 🧰 Installation
 
+Create a virtual environment and install the dependencies:
+
+```bash
+git clone https://github.com/sncarenyang/electric-dipole-field-simulation.git
+cd electric-dipole-field-simulation
+
+
+python -m venv venv
+source venv/bin/activate   # Linux/macOS
+# venv\Scripts\activate     # Windows
+
+pip install -r requirements.txt
+```
+---
 
 ## 🚀 How to Run
 
 ```bash
-pip install -r requirements.txt
+
 python main.py
 ```
 
