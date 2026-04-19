@@ -84,20 +84,20 @@ python main.py
 ```
 
 ## 🎯 Why This Project Matters
- • Demonstrates understanding of electrostatics theory
- • Bridges physics theory with numerical simulation
- • Applies vector calculus concepts in a computational setting
- • Produces clear scientific visualizations for analysis
+ - Demonstrates understanding of electrostatics theory
+ - Bridges physics theory with numerical simulation
+ - Applies vector calculus concepts in a computational setting
+ - Produces clear scientific visualizations for analysis
 
 
 ## 📈 Future Improvements
- • Interactive charge placement
- • Time-dependent simulations
- • Extension to more complex charge distributions
+ - Interactive charge placement
+ - Time-dependent simulations
+ - Extension to more complex charge distributions
 
 ## 👩‍💻 Author
 **Shi-Ning Caren Yang**
-⸻
+
 
 ## 🌐 License & Disclaimer
 
